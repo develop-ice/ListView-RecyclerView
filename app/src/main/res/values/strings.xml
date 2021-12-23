@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Listas</string>
+    <string name="titulo1">ListView</string>
+    <string name="titulo2">LV Personalizado</string>
+    <string name="titulo3">ToDo</string>
+    <string name="titulo4">RecyclerView</string>
+
+
+    <string-array name="destinations">
+        <item>ListView por defecto</item>
+        <item>ListView personalizado</item>
+        <item>ToDo app (ListView)</item>
+        <item>RecyclerView</item>
+    </string-array>
+
+</resources>
